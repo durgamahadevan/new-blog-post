@@ -1,6 +1,6 @@
 ---
 title: "Meditation"
-date: "26 July 2019"
+date: "2019-07-26"
 ---
 
 # Meditation

@@ -1,6 +1,6 @@
 ---
 title: "Order and Chaos"
-date: "7 July 2019"
+date: "2019-07-07"
 ---
 # Order and Chaos
 
